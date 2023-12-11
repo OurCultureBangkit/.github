@@ -17,3 +17,11 @@ CH2-PS310
 | A226BSY2640 | Reyvi Rahman                    | MD            | [ReyviRahman](https://github.com/ReyviRahman)           |
 | A113BSY2353 | A. A. Bagus Premananta Kumara   | MD            | [Agung Prema](https://github.com/premaagung)            |
 ---------------------------------------------------------------------------------------------------------------------------
+
+## Tech Stacks
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
