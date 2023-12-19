@@ -1,5 +1,5 @@
 # OurCulture
-
+#### Landing Page: <a href="https://ourculture.vercel.app/">https://ourculture.vercel.app/</a>
 ## Team ID
 
 CH2-PS310
